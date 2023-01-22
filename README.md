@@ -2,4 +2,4 @@
 
 ## Edited file readme.md
 
-It's markdown file in repository
+It's a markdown file in repository
